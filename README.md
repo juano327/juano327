@@ -14,7 +14,7 @@ I design complete systems for industry: sensors, embedded firmware, PLCs, and th
 | [Exoskeleton kinematics](https://github.com/juano327/leg-exoskeleton-kinematics) | 5-DOF kinematics and gait trajectories for a rehabilitation exoskeleton | MATLAB |
 | [Fuzzy inverted pendulum](https://github.com/juano327/fuzzy-inverted-pendulum) | Fuzzy controller that swings up and balances a pendulum on a cart | Python |
 
-More course work: [PMSM drive control](https://github.com/juano327/pmsm-drive-control) · [coursework](https://github.com/juano327/coursework)
+More course work: [ESP32 gantry crane](https://github.com/juano327/esp32-gantry-crane) · [PMSM drive control](https://github.com/juano327/pmsm-drive-control) · [coursework](https://github.com/juano327/coursework)
 
 ## Tools
 
