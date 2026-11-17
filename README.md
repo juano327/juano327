@@ -1,6 +1,6 @@
 # Juan Ignacio Camaño Bellene
 
-Mechatronics engineering student (37/42 courses) and electrical technician in Mendoza, Argentina.
+Mechatronics engineering student and electrical technician in Mendoza, Argentina.
 I design complete systems for industry: sensors, embedded firmware, PLCs, and the cloud software that shows the data.
 
 ## Featured work
